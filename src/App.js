@@ -22,6 +22,8 @@ function App() {
         </ConnectionProvider>
       </UserGlobalData>
 
+      {/* <LogoutButton /> */}
+
       {/* long way to write the above block of components */}
       {/* 
       <UserGlobalData>
